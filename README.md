@@ -23,3 +23,12 @@ I felt fine doing the experiment itself.  The only thing i felt a bit wierd was 
 22/08/2022
 ## IT
 Feeling like im not able to study enough, can't get in the zone and havent been keeping up with reading and exercises.
+
+
+## Agile Learning and our Project
+I have a lot of ideas, all ideas I want to create in the real world.  Trying to work out what to do for my project - my main block is a) what can i get across as a prototype or idea easily b) what medium will I use to mock up my idea?  c) how do i ensure my idea is protected.
+c) concern encourages me to do something that i dont actually want to make, but i cant really come up with any ideas that i dont think would be great in the real world.
+Afer having ideas directly copied and used in the past I'm very cautious and very protective and secretive with my ideas now.
+
+## Programs
+I feel like theres a lot of programs out there that i don't know about, i feel a bit lost and getting confused.  Whats the next step?  I want to learn and be introduced to new programs to play around with.  I can't learn by reading pages and pagesa of content, i need to do, see, try.
