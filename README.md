@@ -32,3 +32,7 @@ Afer having ideas directly copied and used in the past I'm very cautious and ver
 
 ## Programs
 I feel like theres a lot of programs out there that i don't know about, i feel a bit lost and getting confused.  Whats the next step?  I want to learn and be introduced to new programs to play around with.  I can't learn by reading pages and pagesa of content, i need to do, see, try.
+
+
+# My Software Project
+Finally - I've decided on my project.  It's a huge concept though!  
