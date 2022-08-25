@@ -37,7 +37,12 @@ I feel like theres a lot of programs out there that i don't know about, i feel a
 # My Software Project
 Finally - I've decided on my project.  It's a huge concept though! 
 
-# Web 3.0
+25/08/2022
+
+### I keep having issues with VS Code.
+Found ou ti shouldnt just push the PLAY button and actually push the drop down instead.  Working well now!
+
+### Web 3.0
 web1 = Book
 web2 = map
 web3 = video game - Blockchain
