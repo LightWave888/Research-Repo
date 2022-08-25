@@ -53,4 +53,7 @@ So concept 2 we decided to do a triangle tower but it wasnt very stable
 It was good working as a team, getting everyone to do something for it. Everyone has input and ideas so it was fun.
 The whole time i kept thinking about the self supporting impossible stool.  I kept thinking how we could use the string to get the structure to self suspend itself but i just couldnt get it to work in my brain.  i thnk this coul dbe a good concept to work on with it
 
-#### Software is different to building - Roman said a cool concept that in software you dont start at the bottom and work up as you will never get there - start at the roof/the big idea and then work from there!  Software is counter intuitive!
+#### Software is different to building  - Roman said a cool concept that in software you dont start at the bottom and work up as you will never get there - start at the roof/the big idea and then work from there!  Software is counter intuitive!
+
+### Starting to use Github more
+I feel like i'm finally getting in the flow a bit of using this tool.  Have created a number of repositories with all my ideas, and feel like just getting them into here is going to help get them into reality!
