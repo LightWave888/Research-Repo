@@ -15,8 +15,8 @@ Tiktok uses users previous likes as an algorythm
 ### Reflective Questions:
 
 I felt fine doing the experiment itself.  The only thing i felt a bit wierd was the lack of someone directing the actual activity and then having to speak up myself.  I'm getting better at this but it dones take my time to feel comfortable with a group.  Some people werent sure what to do.
-22/08/2022
-## IT
+
+## IT 22/08/2022
 Feeling like im not able to study enough, can't get in the zone and havent been keeping up with reading and exercises. Once i get home and the kids get home i get too distracted and of course the kids need things.  I'm going to start going to the library to make some more time to be alone and quiet to get more focus.
 
 
