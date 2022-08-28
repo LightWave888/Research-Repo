@@ -1,6 +1,19 @@
 # RELECTIVE-JOURNAL
 
 
+## Week 1
+Hello, World!
+_Software Dev is Art, Science, Engineering and Design_
+I love this concept.  I was very nervous that it would be very boring, just staring at coding and doing math.  I learn through doing, being creaive and applying to real world and imaginative ideas!
+
+### Scratch
+Scratch was fun to play around with.  My step kids, 10 and 13 use it at school.  Especially Alex (13), he's the tops of his digitech class and made a very impressive game with it.
+I enjoyed using it and havving fun, not worrying too much about being serious and just getting to explore ideas
+
+## Week 2
+*_Github_*
+learning this tool at first was very odd.  I couldnt understand the point of it.  Maybe because I never kept a diary when i was younger so i struggled to see the reason for it.  I didnt do much on it for the first few weeks.  I
+
 18/08/2022
 ## Software-Devs-Art-Experiment
 
@@ -53,7 +66,10 @@ The whole time i kept thinking about the self supporting impossible stool.  I ke
 ### Starting to use Github more
 I feel like i'm finally getting in the flow a bit of using this tool.  Have created a number of repositories with all my ideas, and feel like just getting them into here is going to help get them into reality!
 
+
+
 ### Did you remember to take regular breaks away from your screen during this week? How often? Did you stretch your body?
+_Not enough!  Especially since I'm no tuse to sitting down and looking at a screen for so long.  My background is a chef, so standing, using my hands, moving a lot_
 
 ### What is Timeboxing? Have you heard of it before? Will you use it?
 
