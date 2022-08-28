@@ -14,6 +14,14 @@ I enjoyed using it and havving fun, not worrying too much about being serious an
 *_Github_*
 learning this tool at first was very odd.  I couldnt understand the point of it.  Maybe because I never kept a diary when i was younger so i struggled to see the reason for it.  I didnt do much on it for the first few weeks.  I
 
+## Week 3
+
+## Week 4
+*_Agile_*
+I'm really like th eagile concept.
+
+## Week 5
+
 18/08/2022
 ## Software-Devs-Art-Experiment
 
