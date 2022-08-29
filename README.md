@@ -15,6 +15,7 @@ I enjoyed using it and havving fun, not worrying too much about being serious an
 learning this tool at first was very odd.  I couldnt understand the point of it.  Maybe because I never kept a diary when i was younger so i struggled to see the reason for it.  I didnt do much on it for the first few weeks.  I
 
 ## Week 3
+*_Python_*
 
 ## Week 4
 *_Agile_*
