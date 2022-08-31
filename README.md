@@ -8,64 +8,99 @@ I love this concept.  I was very nervous that it would be very boring, just star
 
 ### Scratch
 Scratch was fun to play around with.  My step kids, 10 and 13 use it at school.  Especially Alex (13), he's the tops of his digitech class and made a very impressive game with it.
-I enjoyed using it and havving fun, not worrying too much about being serious and just getting to explore ideas
+I enjoyed using it and having fun, not worrying too much about being serious and just getting to explore ideas.  It felt a lot easier and less intimidating to be able to be creative and actually create something.
+
+I discovered that blocks of code can be condensed down and grouped together to avoid creating a lot of clutter and a lot of repeating codes.  That was a great aspect i loved.
 
 ## Week 2
-*_Github_*
-learning this tool at first was very odd.  I couldnt understand the point of it.  Maybe because I never kept a diary when i was younger so i struggled to see the reason for it.  I didnt do much on it for the first few weeks.  I.m getting use to coming in here and writing my ideas and as i gain more skills i'll be adding more in here!
+###Github
+*_What is Github_*
+After experiencing Github, I would describe it as an online code diary and sharing platform.  People can write and store codes, share ideas, and collaborate on ideas with coding as well.  A great function is that it keeps track of everything, so if you are writing and storing your code in here you can at any time go back and see a particular part.  This is very useful if your code breaks and you need to go back to where it was working fine - If you sotred it in Github you can easily find that part!  I also found that you can link VS Code to Github so it will automatically pull it to a Github repository.  I'm still working this out though as i didnt do it correctly and had issues with my VS code.  I'll try getting that set up again soon.
+
+###Git
+*_WHat is Git_*
+Git is the actual software that stores your code.
+
+learning Github tool at first was very odd.  I couldnt understand the point of it.  Maybe because I never kept a diary when i was younger so i struggled to see the reason for it.  I didnt do much on it for the first few weeks.  I'm getting use to coming in here and writing my ideas and as i gain more skills i'll be adding more in here!  As i get more comfortable and get to practise more code i'll be storing them in here too!
 
 ## Week 3
-*_Python_*
+###Python
+
+*_What is Python_*
+Python is coding language that is very widly used, as it is easy (so they say!) to learn.  It's name Python is related to Monthy Python!  I love it that the coding community have agret sense of humour and like to have fun with things!
+
+A quick search on seek and most of the software and web development jobs are asking for Python coding experience.
+
+*_Coding_*
+I'm still getting the hang of learning Python.  I am enjoying doing the Koans, i feel like it's helping me to unerstand a bit more although some of it is still very confusing.  
+I had a lot of trouble with getting VS Code to work, i had set it up wrong, Pinal helped me to get it set up properly so i can actually run codes without any issue now.
+
+I've mainly been practising with print, int, if, elif, else functions and just getting the hang of these.  After doing some Koans i've also learnt len. I have a long way to go and i feel like at times I am really struggling with focus and brainfog - I will look at a bunch of code and it just looks so mind boggling.  I know it's always the hardest when you start learning something new so i know it'll all click for me soon.  It definitly does challenge your own self belief, I have thought a few times 'maybe i'm not smart enough', 'maybe i'm not sharp enough', 'why are't I getting this?',  'why isnt this easier?', 'Maybe i've chosen the wrong thing to study', 'Maybe i should just got back to hospo fulltime'.   
+
+*_Resources that are helping me_*
+I've found some great resources to use and practise Python with.
+-W3Schools a very helpful and has a lot of info and tutorials
+-https://www.dataquest.io/blog/python-projects-for-beginners has a lot if links to various projects and activites.  I am yet to explore a lot of them but i will be doing some of these too
+-koans, trying to work out some of these really gets me thinking and every mistake i make and incorrect answer helps me to learn. 
+
+I've been mindful of Roman saying to be careful about Turtorial hell,  I think for me the combo of Romans teaching and extra turtorials are helping me a lot.  I only really learn by doing, so just watching someone do it or watching a video without actually following along in real time is very hard for me.  If i do something I am more likely to retain it.
 
 ## Week 4
-*_Agile_*
-I'm really like the agile concept.
+###Agile
+
+*_What is Agile_*
+The best catch line I read about agile is the 'Agile is the ability to create and respond to change. It is a way of dealing with, and ultimately succeeding in, an uncertain and turbulent environment.'
+
+From my understaning, It is a collabortive and creative approach to completeing tasks.  Where teams work together and things are continuously assesed and evaulated to ensure it keeps moving forward and improves each time.
+
+I'm really like the agile concept, I feel like it takes a lot of individual pressure of people but still allows for creative input and allows for shyer people or people who maybe don't feel confident about an idea to still be able to have input.  A scroll through jobs on seek, the majority are also asking for experience or familiar with agile environments.
 
 ## Week 5
 
-18/08/2022
-## Software-Devs-Art-Experiment
-
-Recording train
+*_Software-Devs-Art-Experiment_*
+###Recording train
 The project was to Record a subject; sbuject leaves frame; cut and stop filming
 Film someone until they leave the frame then say cut.  Everyone should stop recording when first person says cut.  Then place all phones on floor in a row and play them all at once.  Record them all playing at once in a line with another phone.
 
 Most people in the group weren't too sure what to do or perhaps wanting to do it, no one could really get organised to do it togehter.  I suggested to Roman someone needs to count down and he suggested i just do it  - i'm pretty shy to speak up in class, so i wasnt that comfortable to do it initially but i just did and yelled out ill count down to 3 and start to try and get it all working together.  I filmed a lady that hid behind a planter, i yelled cut and everyone stopped.
 *We went back upstairs, laid down the phone and Roman recorded them
 
-Tiktok uses users previous likes as an algorythm
+(Tiktok uses the users previous likes as an algorythm)
 ### Reflective Questions:
 
-I felt fine doing the experiment itself.  The only thing i felt a bit wierd was the lack of someone directing the actual activity and then having to speak up myself.  I'm getting better at this but it dones take my time to feel comfortable with a group.  Some people werent sure what to do.
+I felt fine doing the experiment itself.  The only thing i felt a bit wierd was the lack of someone directing the actual activity and then having to speak up myself to get everyone to start.  I'm getting better at this but it does take my time to feel comfortable with a group.  Some people werent sure what to do.
 
-## IT 22/08/2022
+## Study
 Feeling like im not able to study enough, can't get in the zone and havent been keeping up with reading and exercises. Once i get home and the kids get home i get too distracted and of course the kids need things.  I'm going to start going to the library to make some more time to be alone and quiet to get more focus.
 
 
 ## Agile Learning and our Project
-I have a lot of ideas, all ideas I want to create in the real world.  Trying to work out what to do for my project - my main block is a) what can i get across as a prototype or idea easily b) what medium will I use to mock up my idea?  c) how do i ensure my idea is protected.
-c) concern encourages me to do something that i dont actually want to make, but i cant really come up with any ideas that i dont think would be great in the real world.
-Afer having ideas directly copied and used in the past (in a different industries) I'm very cautious and very protective with my ideas now.  Just look at FB and how Mark Zuch stole that, im sure it happens at lot in this industry.
+I have a lot of ideas, all ideas I want to create in the real world.  Trying to work out what to do for my project - my main block is a) what can i get across as a prototype or idea easily?   b) what medium will I use to mock up my idea?  c) How do i ensure my idea is protected?
+My last concern encourages me to do something that i dont actually want to make, but I cant really come up with any ideas that I dont think would be great in the real world.
+Afer having ideas directly copied and used by others without any acknowledgment in the past (in different industries) I'm very cautious and very protective with my ideas now.  The Social Network movie exposed how Mark Zuch stole FB, and I'm sure it happens at lot in this industry.
 
 ## Programs
-I feel like theres a lot of programs out there that i don't know about, i feel a bit lost and getting confused.  Whats the next step?  I want to learn and be introduced to new programs to play around with.  I can't learn by reading pages and pagesa of content, i need to do, see, try.
+I feel like theres a lot of programs out there that i don't know about, i feel a bit lost and getting confused.  Whats the next step?  I want to learn and be introduced to new programs to play around with.  I can't learn by reading pages and pages of content, I need to do, see and try.
 
 
 # My Software Project
 Finally - I've decided on my project.  It's a huge concept though! 
+Soemthing that I think would be really cool, I'm consulting with my 13year step son to get an idea of what him and his peers find interesting, attention grabbing, fun and rewarding.
 
-25/08/2022
+#VS Code
+*_I keep having issues with VS Code_*
+Found out I shouldnt just push the PLAY button and actually push the drop down instead.  Working well now!
 
-### I keep having issues with VS Code.
-Found ou ti shouldnt just push the PLAY button and actually push the drop down instead.  Working well now!
-
+# Blockchain
 ### Web 3.0
 web1 = Book
 web2 = map
 web3 = video game - Blockchain
+I'm really interested in blockchain, previously I had heard of it but that's it.  After learning a little about it in class I went and got a book from the Library to read more on it.  I'm always excited to learn about new concepts that interest me so am excited to get started on the book.
 
-## Marshmellow Tower
-Our team of 6 qorked together to come up with a solution.  The first idea was to hang it from the ceiling - we honestly didnt hear that we couldnt do that!
+#Agile Excersie
+## *_Marshmellow Tower*_
+Our team of 6 worked together to come up with a solution.  The first idea was to hang it from the ceiling - we honestly didnt hear that we couldnt do that!
 So concept 2 we decided to do a triangle tower but it wasnt very stable
 It was good working as a team, getting everyone to do something for it. Everyone has input and ideas so it was fun.
 The whole time i kept thinking about the self supporting impossible stool.  I kept thinking how we could use the string to get the structure to self suspend itself but i just couldnt get it to work in my brain.  i thnk this coul dbe a good concept to work on with it
