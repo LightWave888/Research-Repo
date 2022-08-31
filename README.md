@@ -1,7 +1,7 @@
 # RELECTIVE-JOURNAL
 
 
-## Week 1
+# Week 1
 Hello, World!
 _Software Dev is Art, Science, Engineering and Design_
 I love this concept.  I was very nervous that it would be very boring, just staring at coding and doing math.  I learn through doing, being creaive and applying to real world and imaginative ideas!
@@ -12,7 +12,7 @@ I enjoyed using it and having fun, not worrying too much about being serious and
 
 I discovered that blocks of code can be condensed down and grouped together to avoid creating a lot of clutter and a lot of repeating codes.  That was a great aspect i loved.
 
-## Week 2
+# Week 2
 ### Github
 *_What is Github_*
 After experiencing Github, I would describe it as an online code diary and sharing platform.  People can write and store codes, share ideas, and collaborate on ideas with coding as well.  A great function is that it keeps track of everything, so if you are writing and storing your code in here you can at any time go back and see a particular part.  This is very useful if your code breaks and you need to go back to where it was working fine - If you sotred it in Github you can easily find that part!  I also found that you can link VS Code to Github so it will automatically pull it to a Github repository.  I'm still working this out though as i didnt do it correctly and had issues with my VS code.  I'll try getting that set up again soon.
@@ -23,7 +23,7 @@ Git is the actual software that stores your code.
 
 learning Github tool at first was very odd.  I couldnt understand the point of it.  Maybe because I never kept a diary when i was younger so i struggled to see the reason for it.  I didnt do much on it for the first few weeks.  I'm getting use to coming in here and writing my ideas and as i gain more skills i'll be adding more in here!  As i get more comfortable and get to practise more code i'll be storing them in here too!
 
-## Week 3
+# Week 3
 ### Python
 
 *_What is Python_*
@@ -45,7 +45,7 @@ I've found some great resources to use and practise Python with.
 
 I've been mindful of Roman saying to be careful about Turtorial hell,  I think for me the combo of Romans teaching and extra turtorials are helping me a lot.  I only really learn by doing, so just watching someone do it or watching a video without actually following along in real time is very hard for me.  If i do something I am more likely to retain it.
 
-## Week 4
+# Week 4
 ### Agile
 
 *_What is Agile_*
@@ -83,51 +83,65 @@ Afer having ideas directly copied and used by others without any acknowledgment 
 I feel like theres a lot of programs out there that i don't know about, i feel a bit lost and getting confused.  Whats the next step?  I want to learn and be introduced to new programs to play around with.  I can't learn by reading pages and pages of content, I need to do, see and try.
 
 
-# My Software Project
+## My Software Project
 Finally - I've decided on my project.  It's a huge concept though! 
 Soemthing that I think would be really cool, I'm consulting with my 13year step son to get an idea of what him and his peers find interesting, attention grabbing, fun and rewarding.
 
-# VS Code
+## VS Code
 *_I keep having issues with VS Code_*
 Found out I shouldnt just push the PLAY button and actually push the drop down instead.  Working well now!
 
-# Blockchain
+## Blockchain
 ### Web 3.0
 web1 = Book
 web2 = map
 web3 = video game - Blockchain
 I'm really interested in blockchain, previously I had heard of it but that's it.  After learning a little about it in class I went and got a book from the Library to read more on it.  I'm always excited to learn about new concepts that interest me so am excited to get started on the book.
 
-# Agile Excersie
+## Agile Excersie
 ## *_Marshmellow Tower*_
 Our team of 6 worked together to come up with a solution.  The first idea was to hang it from the ceiling - we honestly didnt hear that we couldnt do that!
-So concept 2 we decided to do a triangle tower but it wasnt very stable
-It was good working as a team, getting everyone to do something for it. Everyone has input and ideas so it was fun.
-The whole time i kept thinking about the self supporting impossible stool.  I kept thinking how we could use the string to get the structure to self suspend itself but i just couldnt get it to work in my brain.  i thnk this coul dbe a good concept to work on with it
+So concept 2 we decided to do a triangle tower but it wasnt very stable, we didnt have enoough spaghetti or tape to truly make it stable.
+It was good working as a team, getting everyone to do something for it. Everyone had input and ideas so it was fun.
+The whole time i kept thinking about the self supporting impossible stool.  I kept thinking how we could use the string to get the structure to self suspend itself but i just couldnt get it to work in my brain.  i thnk this could be a good concept to work on with it.
+
+*-Reflecting_*  After each round we reflected on what worked, what didnt and what we could improve.  It meant that each time we had to think of new ways to do it, thinking out of the box and simplifying our concept.
+
+It's was a really fun experiment that I'd enjoy doing again.
 
 #### Software is different to building  - Roman said a cool concept that in software you dont start at the bottom and work up as you will never get there - start at the roof/the big idea and then work from there!  Software is counter intuitive!
 
 ### Starting to use Github more
 I feel like i'm finally getting in the flow a bit of using this tool.  Have created a number of repositories with all my ideas, and feel like just getting them into here is going to help get them into reality!
 
-
+# Roman's Questions
 
 ### Did I remember to take regular breaks away from your screen during this week? How often? Did you stretch your body?
-_Not enough!  Especially since I'm not use to sitting down and looking at a screen for so long.  My background is a chef, so standing, using my hands, moving a lot_
+_Not enough!  Especially since I'm not use to sitting down and looking at a screen for so long.  My background is a chef, so standing, using my hands, moving a lot
 Staring at a screen for a long time is hurting my eyes but they will adjust.
 Feeling the need to get back into yoga with all the sitting down - and join the bloody gym!_
 
-### What is Timeboxing? Have you heard of it before? Will you use it?_I had never heard of it before.... I like that concept but i just don't know if it'll work for me - maybe i can try and praactise it but i'm just not sure.  I'm very free flow, i don't liek being constricted and time boxing makes me feel like i'm pressured to have to do something then and for that time.  I'm definitely someone who acts off feelings - i do things when it feels right, if its not flowing or doesnt feel right I wont do it and forcing myself puts up blocks.  I'll quite often start on something and that ight segway intosomething else and the tasks will be done but not in a mathmatical scheduled way.
+### What is Timeboxing? Have you heard of it before? Will you use it?
+_I had never heard of it before.... I like that concept but i just don't know if it'll work for me - maybe i can try and praactise it but i'm just not sure.  I'm very free flow, i don't liek being constricted and time boxing makes me feel like i'm pressured to have to do something then and for that time.  I'm definitely someone who acts off feelings - i do things when it feels right, if its not flowing or doesnt feel right I wont do it and forcing myself puts up blocks.  I'll quite often start on something and that ight segway intosomething else and the tasks will be done but not in a mathmatical scheduled way.
 I remember when i had my mayan calaendar chart done and one thing she said was i never follow the direct path to something i will always look for a short cut ro a quicker way to do it, and get it done sooner.  In some cases this is a negative trait but in most is\t is a positive.  I don't like to sit still_
 
 ### On a a 0-5 scale, how confident are you with each of the assignments?
 _I feel fine with the asignments but also maybe arent sure if i'm interpreting them correctly - i don't know if this is exactly what was wanted for this project!?!_
-_I'm not looking forward to the oral assignment in IT, i really loathe this kind of thing, always have sucked and disliked these._
+_I'm not looking forward to the oral assignment in IT, i really loathe this kind of thing, always have disliked these._
 
 ### What are of you proud of up to this point in the course?
-_...._
+_....hmmm, honestly not really anything yet.  I'm proud that I made the decision to do this course and move towards a new career but I don't feel confident yet_
 
-### Do you have a personal learning strategy? If so, what parts of your learning strategy worked? What problems did you face? If you don't have a personal strategy yet, what do you think might work? Invent a describe a strategy for yourself. 
+### Do you have a personal learning strategy? If so, what parts of your learning strategy worked? What problems did you face? If you don't have a personal strategy yet, what do you think might work? Invent a describe a strategy for yourself.
+*_NO!  And I think this may be my downfall so far.  As I'm trying to juggle going to class, study, ids and their activities and running a business that I work in 4-5 days a week I'm finding that I'm not allocating enough study time.  
+I decided I would try and get study done at work but it just isnt viable as I get interupted and lose my flow or I end up working on the shop shopify site which I need to get live asap.  A side note - I find shopify themes so limiting and dont like most of them, I grabbed a free one and then decided I would try and learn to edit it, so i downloaded Ruby and got everything installed and set up so I can now edit the backend but I have to learn that, I then got worried that I could spend a long time learning this instead of doing course study so I've left that for now!
+
+*_A New Strategy_*
+-I need to create a new realistic and achievable strategy.
+On mondays and thursdays I will spend as long as I can at Whitecliffe and then perhaps the library so I can stay in the zone and get study and extra learning done.  I know previously that as soon as i get home I can't stay focused or get the uninterupted time I need.
+-To ensure I can do study other days I have discussed that Becks takes both kids to each others activites (often one would stay while the other went but it means it's very hard for me to focus)  This will give me 2 extra evenings a week to have a few hours at home to study.  
+-Breaking down my time.  I will look at breaking my time down into slots of Course work and study and then other resources.
+-Keeping focused, ensuring I have plenty of water, a smoothie or fresh fruit with me. 
 
 
 ### If you could send a time traveling text message back to yourself at the start of this course, what would it say?
@@ -137,35 +151,46 @@ _*load up on brain boosters!
 *do a juice fast and clear the stress induced brain fog!_
 
 ### What is Python?
+*_a very cool, widly used, easy (aparently), coding language.  It is considered easy as functions can be made in a simpler and quicker way than other coding languages._*
 
 ### Have you developed a habit of exploring?
+*_Not sure I fully understand this.  I am always looking and exploring different ideas, concepts, programs, applications etc within the software and web development areas._*
 
 ### Have you meditated before?
-Yes!  A lot, every kind there is.  Havent at all for a few years now though and have been yearning to get back to it for a while.
+*_Yes!  A lot, every kind there is.  Havent at all for a few years now though and have been yearning to get back to it for a while.  I use to do Sound Meditation and run Sound Baths and Sound Journeys as a form of meditation.  Did a lot when I was living in Australia but only dibs and dabs here in NZ._*
 
 ### Is there something over which you have gained a degree of mastery before in your life? Gymnastics, Rubik's Cubes, A Video Game? What did it take?
+*_Hmm mastery is an interesting word.  I've been told I don't acknowledge my own achievements and talents enough but I don't think mastery in anything can ever be achieved.  I think everything is always a work in progress no matter how good at something you might be, no matter how well you know everything - you cant ever know it all.  I beleive considering yourself a master would actually prevent you from learning more and therefore prevent you from being a master.
+
+I have learnt a lot about many things and was very good at a few Video Games, Cheffing, Vegan Cheffing.  They took a lot of practise, a lot of learning, a lot of constantly doing _*
 
 ### Do you consider yourself a developer yet?
 _no, I consider myself creative and full or ideas so in that respect yes, but not in the sense of being able to actually develop them yet_
 
 ### Do you value creativity? As a value itself? What about as a tool for learning to think logically?
-_Yes it's my life.  It's how i operate and what makes me happy.  I ned to learn more if using it as a tool to think logically_
+_Yes it is life.  It's how I operate and what makes me happy.  I ned to learn more if using it as a tool to think logically_
 
 ### How many tabs do you have open in your web browser right now? What is the ratio of study related tabs to distraction related tabs?
 _over 60 spread across 6 different windows!  the ratio is about 60% study related, 40% business related. the only distracting thing is my real life cat demanding more food every 20 mins_
 
 ### Have you had a fight response to technology? What does it feel like? How did you overcome this?
+*_Yes!  It feels very frustrating.  I walk away go and do something else not involving technology to forget about it and then come back at a later time feeling calm and fresh_*
 
 ### What is an IDE?
+*_ It stands for Integrated Development Environment.  It is basically a program for wiring and running codes of various languages, like VS Code_*
 
 ### What did you learn out of the Marshmallow Challenge?
+*_see above_*
 
 ### Did you have any blocks during this challenge? How did you overcome them?
+*_I don't think I had any blocks other than trying to remeber how to do the impossible structure_*
 
 ### So far, what was the hardest moment of this course for you?
+*_Probably just feeling comfortable with learning the new coding languages.  I really enjoy the fun group activities, thats my favourite.  I would like more interactive components and more activites doing coding in real time in class like when we did the koans.
+I really don't enjoy the IT classes, It's my worse nightmare just watching a listening to a lecture, i really struggle with this type of teaching, I was hoping it would be a lot more interactive.  I've enjoyed it when Pinal has been in the physical class room and we've done hands on things.  But looking at slides and listening for so long just shuts off my brain_*
 
 ### What is OOP?
-
+*- Had never heard of it, I googled it.  I will have to read up a bit more to understand it_*
 ### Are you using the canvas content? Do you find it helpful or tedious?
 
 ### Which parts of the work did you find tedious?
