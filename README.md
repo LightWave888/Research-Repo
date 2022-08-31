@@ -14,19 +14,22 @@ I discovered that blocks of code can be condensed down and grouped together to a
 
 # Week 2
 ### Github
-*_What is Github_*
+*_What is Github?_*
+
 After experiencing Github, I would describe it as an online code diary and sharing platform.  People can write and store codes, share ideas, and collaborate on ideas with coding as well.  A great function is that it keeps track of everything, so if you are writing and storing your code in here you can at any time go back and see a particular part.  This is very useful if your code breaks and you need to go back to where it was working fine - If you sotred it in Github you can easily find that part!  I also found that you can link VS Code to Github so it will automatically pull it to a Github repository.  I'm still working this out though as i didnt do it correctly and had issues with my VS code.  I'll try getting that set up again soon.
 
 ### Git
-*_What is Git_*
+*_What is Git?_*
+
 Git is the actual software that stores your code.
 
-learning Github tool at first was very odd.  I couldnt understand the point of it.  Maybe because I never kept a diary when i was younger so i struggled to see the reason for it.  I didnt do much on it for the first few weeks.  I'm getting use to coming in here and writing my ideas and as i gain more skills i'll be adding more in here!  As i get more comfortable and get to practise more code i'll be storing them in here too!
+Learning Github tool at first was very odd.  I couldnt understand the point of it.  Maybe because I never kept a diary when i was younger so i struggled to see the reason for it.  I didnt do much on it for the first few weeks.  I'm getting use to coming in here and writing my ideas and as i gain more skills i'll be adding more in here!  As i get more comfortable and get to practise more code i'll be storing them in here too!
 
 # Week 3
 ### Python
 
-*_What is Python_*
+*_What is Python?_*
+
 Python is coding language that is very widly used, as it is easy (so they say!) to learn.  It's name Python is related to Monthy Python!  I love it that the coding community have agret sense of humour and like to have fun with things!
 
 A quick search on seek and most of the software and web development jobs are asking for Python coding experience.
@@ -191,25 +194,34 @@ I really don't enjoy the IT classes, It's my worse nightmare just watching a lis
 
 ### What is OOP?
 *- Had never heard of it, I googled it.  I will have to read up a bit more to understand it_*
+
 ### Are you using the canvas content? Do you find it helpful or tedious?
+*_I have been through ssome of it, I do find it helpful._*
 
 ### Which parts of the work did you find tedious?
 
 ### What is polymorphism?
 
 ### Did you hear a self critical voice in your head throughout the process of learning during this last few weeks? What did it say to you? Do you believe what it said?
+*_Yes, just doubting as I've mentioned above.  Doubting that I can do this.  I don't beleive it and it onlys pushes me to make sure I do do it!_*
 
 ### What is an MVP? How would you describe it to a group of 6 year olds?
+*_Minimum Viable Product.  I would say it is the simplest snad castle you can build to be able to show someone what you can do with sand._*
 
 ### What is the hardest problem you have solved so far?
+*_some of the Koans, aothough it gives you prompts and directs you to the answer in a way but still makes you have to think and try to understand it and why it is what it is._*
 
 ### What is pair programming?
+*_
 
 ### What are you looking forward to learning about programming?
+*_Learning more about actually implementing it.  I joined the course for the Web Dev Dip but I'm thinking I will be interested in staying for the extra year to do the Software Dev Dip as I've found I also really am interested in software.  Ask me 6 months ago and I'd say you are mad to suggest I would ever suggest that!_*
 
 ### What is conscious listening?
 
+
 ### What is a variable?
+
 
 ### What programming languages are you interested in learning? Why?
 _python, java, c#, sql, ruby  they are the ones that are mentioned a lot. i want to learn them all
