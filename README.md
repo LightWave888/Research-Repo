@@ -13,18 +13,18 @@ I enjoyed using it and having fun, not worrying too much about being serious and
 I discovered that blocks of code can be condensed down and grouped together to avoid creating a lot of clutter and a lot of repeating codes.  That was a great aspect i loved.
 
 ## Week 2
-###Github
+### Github
 *_What is Github_*
 After experiencing Github, I would describe it as an online code diary and sharing platform.  People can write and store codes, share ideas, and collaborate on ideas with coding as well.  A great function is that it keeps track of everything, so if you are writing and storing your code in here you can at any time go back and see a particular part.  This is very useful if your code breaks and you need to go back to where it was working fine - If you sotred it in Github you can easily find that part!  I also found that you can link VS Code to Github so it will automatically pull it to a Github repository.  I'm still working this out though as i didnt do it correctly and had issues with my VS code.  I'll try getting that set up again soon.
 
-###Git
-*_WHat is Git_*
+### Git
+*_What is Git_*
 Git is the actual software that stores your code.
 
 learning Github tool at first was very odd.  I couldnt understand the point of it.  Maybe because I never kept a diary when i was younger so i struggled to see the reason for it.  I didnt do much on it for the first few weeks.  I'm getting use to coming in here and writing my ideas and as i gain more skills i'll be adding more in here!  As i get more comfortable and get to practise more code i'll be storing them in here too!
 
 ## Week 3
-###Python
+### Python
 
 *_What is Python_*
 Python is coding language that is very widly used, as it is easy (so they say!) to learn.  It's name Python is related to Monthy Python!  I love it that the coding community have agret sense of humour and like to have fun with things!
@@ -46,7 +46,7 @@ I've found some great resources to use and practise Python with.
 I've been mindful of Roman saying to be careful about Turtorial hell,  I think for me the combo of Romans teaching and extra turtorials are helping me a lot.  I only really learn by doing, so just watching someone do it or watching a video without actually following along in real time is very hard for me.  If i do something I am more likely to retain it.
 
 ## Week 4
-###Agile
+### Agile
 
 *_What is Agile_*
 The best catch line I read about agile is the 'Agile is the ability to create and respond to change. It is a way of dealing with, and ultimately succeeding in, an uncertain and turbulent environment.'
@@ -58,7 +58,7 @@ I'm really like the agile concept, I feel like it takes a lot of individual pres
 ## Week 5
 
 *_Software-Devs-Art-Experiment_*
-###Recording train
+### Recording train
 The project was to Record a subject; sbuject leaves frame; cut and stop filming
 Film someone until they leave the frame then say cut.  Everyone should stop recording when first person says cut.  Then place all phones on floor in a row and play them all at once.  Record them all playing at once in a line with another phone.
 
@@ -87,7 +87,7 @@ I feel like theres a lot of programs out there that i don't know about, i feel a
 Finally - I've decided on my project.  It's a huge concept though! 
 Soemthing that I think would be really cool, I'm consulting with my 13year step son to get an idea of what him and his peers find interesting, attention grabbing, fun and rewarding.
 
-#VS Code
+# VS Code
 *_I keep having issues with VS Code_*
 Found out I shouldnt just push the PLAY button and actually push the drop down instead.  Working well now!
 
@@ -98,7 +98,7 @@ web2 = map
 web3 = video game - Blockchain
 I'm really interested in blockchain, previously I had heard of it but that's it.  After learning a little about it in class I went and got a book from the Library to read more on it.  I'm always excited to learn about new concepts that interest me so am excited to get started on the book.
 
-#Agile Excersie
+# Agile Excersie
 ## *_Marshmellow Tower*_
 Our team of 6 worked together to come up with a solution.  The first idea was to hang it from the ceiling - we honestly didnt hear that we couldnt do that!
 So concept 2 we decided to do a triangle tower but it wasnt very stable
