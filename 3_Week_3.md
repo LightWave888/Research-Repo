@@ -45,3 +45,25 @@ def test_accessing_list_elements(self):
         self.assertEqual('butter', noms[-3])
         
 It's kind of strange that the numbering system is different to our normal numbering system, but it's quite fun at the same time.  I keep trying to relate computer language and coding languages to our english language but it just doesnt always work like that.  I remembered about when I studied spanish in school and how even the sentence structure is totally different to english, I think letting go of what I know of my language will help more and more to understand code.  I can see why kids can pick it up pretty fast as they arent so set in their ways with their language and it's structure.
+
+## Pygame
+ This is some coding I've been learning to create a game in pygame.  This is the beginiings of a snake game and am just learning what parts of the code represent. 
+ I can easily change the colours, and the sizing with this.  The code also tells us to keep running unless the user says QUIT and then it is to exit.  I'm enjoying playing around with pygame and will be doing more on this for fun too!
+
+
+size = width, height = 640, 480
+pink = 255, 192, 203
+yellow = 255, 255, 0
+
+screen = pygame.display.set_mode(size)
+
+while 1:
+    for event in pygame.event.get():
+        if event.type == pygame.QUIT: sys.exit()
+        
+    screen.fill(pink)
+    
+    pygame.draw.rect(screen, yellow, (100, 100, 10, 10))
+    pygame.display.flip()
+    
+   
