@@ -19,13 +19,13 @@ This week we got familiar with Agile concepts and did the recording train excerc
 ## Week 5
 In this week we did the Marshmellow Tower challenge.
 
-## Week 6
+# Week 6
 This past week we learnt about Koans, learning by fiixing errors.
 
-## My Own Reflections
+# My Own Reflections
 My own reflections and thoughts about the course overall and my learning so far.
 
-## Roman's Questions
+# Roman's Questions
 
 
 
