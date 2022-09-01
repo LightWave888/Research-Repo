@@ -23,3 +23,5 @@ Soemthing that I think would be really cool, I'm consulting with my 13year step 
 *_I keep having issues with VS Code_*
 Found out I shouldnt just push the PLAY button and actually push the drop down instead.  Then found out can click in the terminal, push and enter.  Even easier! Working well now!
 
+## Starting to use Github more
+I feel like i'm finally getting in the flow a bit of using this tool.  Have created a number of repositories with all my ideas, and feel like just getting them into here is going to help get them into reality!
