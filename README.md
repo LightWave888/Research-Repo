@@ -1,9 +1,8 @@
 # RELECTIVE-JOURNAL
 *_Ok here is my Research Repository._*
 
-## Look through the files to see my insights and thoughts for each week.
-
-## *_You'll find_* 
+Look through the files to see my insights and thoughts for each week.
+*_You'll find:_* 
 
 # Week 1
 The first week we played around with Scratch.
