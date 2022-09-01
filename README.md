@@ -49,6 +49,34 @@ I've found some great resources to use and practise Python with.
 
 I've been mindful of Roman saying to be careful about Turtorial hell,  I think for me the combo of Romans teaching and extra turtorials are helping me a lot.  I only really learn by doing, so just watching someone do it or watching a video without actually following along in real time is very hard for me.  If i do something I am more likely to retain it.
 
+For the exercise of calculating a dogs age I found this code
+h_age = int(input("Input a dog's age in human years: "))
+
+if h_age < 0:
+	print("Age must be positive number.")
+	exit()
+elif h_age <= 2:
+	d_age = h_age * 10.5
+else:
+	d_age = 21 + (h_age - 2)*4
+
+print("The dog's age in dog's years is", d_age)
+
+this codde works well, but i feel it could be simpler.  I'm not sure why it needs the if question, but I assume when writing code we need to assume people might not think logically so perhaps someone would put something less than 1.  It's interesting to start to think about the potential users and what they may input and what output we would want for that.
+
+One of the Koans codes i found fun was 
+def test_accessing_list_elements(self):
+        noms = ['peanut', 'butter', 'and', 'jelly']
+
+        self.assertEqual('peanut', noms[0])
+        self.assertEqual('jelly', noms[3])
+        self.assertEqual('jelly', noms[-1])
+        self.assertEqual('butter', noms[-3])
+        
+It's kind of strange that the numbering system is different to our normal numbering system, but it's quite fun at the same time.  I keep trying to relate computer language and coding languages to our english language but it just doesnt always work like that.  I remembered about when I studied spanish in school and how even the sentence structure is totally different to english, I think letting go of what I know of my language will help more and more to understand code.  I can see why kids can pick it up pretty fast as they arent so set in their ways with their language and it's structure.
+
+
+
 # Week 4
 ### Agile
 
