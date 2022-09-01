@@ -1,5 +1,5 @@
 *_Software-Devs-Art-Experiment_*
-### Recording Train
+
 ### Recording train
 The project was to Record a subject; sbuject leaves frame; cut and stop filming
 Film someone until they leave the frame then say cut.  Everyone should stop recording when first person says cut.  Then place all phones on floor in a row 
@@ -39,14 +39,14 @@ Soemthing that I think would be really cool, I'm consulting with my 13year step 
 
 ## VS Code
 *_I keep having issues with VS Code_*
-Found out I shouldnt just push the PLAY button and actually push the drop down instead.  Working well now!
+Found out I shouldnt just push the PLAY button and actually push the drop down instead.  Then found out can click in the terminal, push and enter.  Even easier! Working well now!
 
 ## Blockchain
 ### Web 3.0
 web1 = Book
 web2 = map
 web3 = video game - Blockchain
-I'm really interested in blockchain, previously I had heard of it but that's it.  After learning a little about it in class I went and got a book from the Library to read more on it.  I'm always excited to learn about new concepts that interest me so am excited to get started on the book.
+I'm really interested in blockchain, previously I had heard of it but that's it.  After learning a little about it in class I went and got a book from the Library to read more on it.  I'm always excited to learn about new concepts that interest me so am excited to get started on the book.  The book is 'Basic Blockchain - What It Is and How It Will Transform the Way We Work and Live' by David L. Shrier.  Again it was the only one in the library on this topic at the time.  
 
 ## Agile Excersie
 ## *_Marshmellow Tower*_
