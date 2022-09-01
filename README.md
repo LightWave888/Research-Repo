@@ -131,7 +131,7 @@ web3 = video game - Blockchain
 I'm really interested in blockchain, previously I had heard of it but that's it.  After learning a little about it in class I went and got a book from the Library to read more on it.  I'm always excited to learn about new concepts that interest me so am excited to get started on the book.
 
 ## Agile Excersie
-## *_Marshmellow Tower*_
+## *_Marshmellow Tower_*
 Our team of 6 worked together to come up with a solution.  The first idea was to hang it from the ceiling - we honestly didnt hear that we couldnt do that!
 So concept 2 we decided to do a triangle tower but it wasnt very stable, we didnt have enoough spaghetti or tape to truly make it stable.
 It was good working as a team, getting everyone to do something for it. Everyone had input and ideas so it was fun.
