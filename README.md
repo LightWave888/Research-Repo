@@ -212,30 +212,37 @@ I really don't enjoy the IT classes, It's my worse nightmare just watching a lis
 *_some of the Koans, aothough it gives you prompts and directs you to the answer in a way but still makes you have to think and try to understand it and why it is what it is._*
 
 ### What is pair programming?
-*_
+*_Working with someone to work on the task together, one might do a certain part and the other another part.  Rather than working on a task all by yourself it is shared_*
 
 ### What are you looking forward to learning about programming?
 *_Learning more about actually implementing it.  I joined the course for the Web Dev Dip but I'm thinking I will be interested in staying for the extra year to do the Software Dev Dip as I've found I also really am interested in software.  Ask me 6 months ago and I'd say you are mad to suggest I would ever suggest that!_*
 
 ### What is conscious listening?
-
+*_Active listening, being present and being aware of the person who is talking, their feelings and emotions as well as your own._*
 
 ### What is a variable?
-
+*_A way of assignment different names in python that can then be used my that name.  EG  my_var = "Aysha"_*
 
 ### What programming languages are you interested in learning? Why?
-_python, java, c#, sql, ruby  they are the ones that are mentioned a lot. i want to learn them all
+*_python, java, c#, sql, ruby  they are the ones that are mentioned a lot. I want to learn them all really.  I want to arm myself with as much knowledge as possible. I often looking at seek jobs, HIGH paid ones and look at what they are asking for, I've created a repository with a list of these.  I want to slowly work my way through and learn them all.    
 
 ### What is something kind that someone has done for you?
+*_Our house burnt down a couple of years ago and we lost everything, my sister was incredible, organised things for the kids, local shops to donate items to us and so much more.  We also experienced so much kindness form total strangers during that time.  Restored our faith in humanity._*
 
 ### If you were describing programming to someone who knows nothing about it, what would you say?
+*_ It is like building a house you need an architect to design the house factorring in all the requirements for the client, you need solid foundations, there needs to be plumbing and electricity factored in.  Programming is like that in the virtual world, designing a program, building it and maintaining it.  Maybe renovating it from time to time, adding on an extra wing for example._*
 
 ### Which parts of this course made you feel doubtful of your own innate ability?
+*- Just as I've discussed just feeling deflated that I'm not getting it faster.  I don't even know if I'm doing this assignment right!  I know it said share you codes, but I havent done any codes other than simple ones, that we've practised.  I feel like I'm maybe behind everyone else._*
 
 ### What is a fixed mindset?
+*_ Not being willing to adapt and change and grow._*
 
 ### What is something kind you have done for someone else?
+*_Gave my washing machine to a family whos michine had broken down and they couldn't afford a new one._*  
 
 ### Have you done mindfulness or attention training before?
+*_I've done minfulness meditation but not attention training.  It sounds like it is something I should explore._*
 
 ### Have you developed a habit of persevering?
+*_Yes, I always do and always have.  I don't give up easily.  the only time I would give up is if I think I'm left behind and too far behind that everything is over my head.  Otherwise I am a fighter, I will keep going until I physically can't anymore._*
