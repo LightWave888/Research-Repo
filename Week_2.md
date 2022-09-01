@@ -14,4 +14,3 @@ Learning Github at first was very odd.  I couldnt understand the point of it.  M
 Git is the actual software that stores your code.  Users can work together on the code and track changes.
 
 
-Hmm for some reason I can only get the formating to work in the read me file...
