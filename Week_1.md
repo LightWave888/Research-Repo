@@ -10,7 +10,8 @@ I enjoyed using it and having fun, not worrying too much about being serious and
 I discovered that blocks of code can be condensed down and grouped together to avoid creating a lot of clutter and a lot of repeating codes.  That was a great aspect i loved.
 
 Here is my first Scratch.
-[https://scratch.mit.edu/projects/716774535] (https://scratch.mit.edu/projects/716774535/)
+[https://scratch.mit.edu/projects/716774535] 
 
 I havent done anything else on it as yet, but my step son definatly inspired me with what he did so I'll get back in and have a play at some stage.
 Here's my step son's project
+[https://scratch.mit.edu/projects/724010597]
