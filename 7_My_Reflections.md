@@ -25,3 +25,9 @@ Found out I shouldnt just push the PLAY button and actually push the drop down i
 
 ## Starting to use Github more
 I feel like i'm finally getting in the flow a bit of using this tool.  Have created a number of repositories with all my ideas, and feel like just getting them into here is going to help get them into reality!
+
+## Overall
+Overall I am enjoying the course,  I just feel like I'm not gettin git fast enough so that's causing me to put more pressure on myself and that creates a bad learning cycle.  I'm going to cut myself some slack and get sorted with my new study plan.
+
+I'm enjoying the unteractive activities, Roman gets it that you need to relate it to fun and creativity and action to get a full understanding.  Compared to the IT class it is completely different.  I'm looking forward to the IT class ending, but would be happy to continue Dev Fun for another 9 weeks.
+
