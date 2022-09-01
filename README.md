@@ -16,7 +16,8 @@ I discovered that blocks of code can be condensed down and grouped together to a
 ### Github
 *_What is Github?_*
 
-After experiencing Github, I would describe it as an online code diary and sharing platform.  People can write and store codes, share ideas, and collaborate on ideas with coding as well.  A great function is that it keeps track of everything, so if you are writing and storing your code in here you can at any time go back and see a particular part.  This is very useful if your code breaks and you need to go back to where it was working fine - If you sotred it in Github you can easily find that part!  I also found that you can link VS Code to Github so it will automatically pull it to a Github repository.  I'm still working this out though as i didnt do it correctly and had issues with my VS code.  I'll try getting that set up again soon.
+After experiencing Github, I would describe it as an online code diary and sharing platform.  People can write and store codes, share ideas, and collaborate on ideas with coding as well.  A great function is that it keeps track of everything, so if you are writing and storing your code in here you can at any time go back and see a particular part.  This is very useful if your code breaks and you need to go back to where it was working fine - If you sotred it in Github you can easily find that part!  It is also useful if you are working on a project with other people as you can all work on it.  You can fork projects and make projects public or private.
+I also found that you can link VS Code to Github so it will automatically pull it to a Github repository.  I'm still working this out though as i didnt do it correctly and had issues with my VS code.  I'll try getting that set up again soon.
 
 ### Git
 *_What is Git?_*
